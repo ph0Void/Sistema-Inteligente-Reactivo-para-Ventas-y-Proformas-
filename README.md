@@ -1,4 +1,4 @@
-# ⚡ SmartSales — Sistema Reactivo Inteligente para Ventas y Proformas
+# ⚡ Sistema Reactivo Inteligente para Ventas y Proformas
 
 🚀 SmartSales  es un sistema moderno y escalable desarrollada bajo una arquitectura de **microservicios reactivos**, impulsada por **Spring Boot WebFlux** en el backend y **Next.js** en el frontend.
 Diseñada para ofrecer rendimiento, eficiencia y una experiencia inteligente, permite la gestión completa de productos, ventas, clientes y proformas, con generación automática de recibos y proformas en formato PDF.
