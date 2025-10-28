@@ -7,9 +7,10 @@ Diseñada para ofrecer rendimiento, eficiencia y una experiencia inteligente, pe
 brindando soporte contextual, respuestas personalizadas y facilitando los procesos comerciales.
 
 ---
-<img width="4985" height="2419" alt="PROYCETOS MSVC" src="https://github.com/user-attachments/assets/428235d3-4f3e-4ecc-bd74-2e4de2f8b40b" />
+<img width="1000" height="900" alt="PROYCETOS MSVC" src="https://github.com/user-attachments/assets/428235d3-4f3e-4ecc-bd74-2e4de2f8b40b" />
 
 
+<img width="1000" height="900" alt="3 -dashboard" src="https://github.com/user-attachments/assets/80b41383-0a73-4de2-bede-50dba893080c" />
 
 ## 🧩 Descripción general
 
@@ -66,15 +67,17 @@ El frontend (Next.js + TypeScript) consume los servicios mediante API REST, brin
 
 ## ⚡ Microservicios del sistema
 
-| Servicio | Descripción | Puerto |
-|-----------|--------------|--------|
-| **msvc-auth** | Autenticación y gestión de usuarios (JWT + MongoDB) | 8083 |
-| **msvc-products** | CRUD de productos con MongoDB reactivo | 8081 |
-| **msvc-customer** | Gestión de clientes y vendedores | 8082 |
-| **msvc-sales** | Orquestación de ventas / proformas | 8085 |
-| **msvc-images** | Subida y gestión de imágenes con Cloudinary | 8084 |
-| **msvc-chatbot** | Asistente virtual (Spring AI + LM Studio + Qwen3) | 8086 |
-| **msvc-gateway** | API Gateway / seguridad / enrutamiento | 8080 |
+
+| Microservicio      | Nombre de la aplicación | Puerto | Ruta base ejemplo |
+|--------------------|-------------------------|--------:|-------------------|
+| API Gateway        | msvc-gateway            |   8080 | http://localhost:8080/ |
+| Productos          | msvc-product            |   8081 | http://localhost:8081/products |
+| Clientes           | msvc-customer           |   8082 | http://localhost:8082/customers |
+| Autenticación      | msvc-authorization      |   8083 | http://localhost:8083/auth |
+| Imágenes           | msvc-images             |   8084 | http://localhost:8084/images |
+| Ventas/Proformas   | msvc-sales              |   8085 | http://localhost:8085/sales |
+| Chatbot            | msvc-chatbot            |   8086 | http://localhost:8086/chatbot |
+| Eureka Server      | msvc-eurekaServer       |  8761 | http://localhost:8761/ |
 
 ---
 
@@ -113,18 +116,21 @@ El frontend (Next.js + TypeScript) consume los servicios mediante API REST, brin
 ---
 ## Imagenes 
 
-<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/22a5d984-1145-4e82-ba02-ad66f4f16980" />
-
-<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/f45d5920-88b6-48e5-b8aa-277c0dfceaa1" />
-<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/cf1e6dd1-0f4c-47ba-937f-9030f62bca0f" />
-
-<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/76543c7e-6128-41c3-a9d8-57a91922d4d2" />
+<img width="1000" height="900" alt="1-login" src="https://github.com/user-attachments/assets/bf75e520-6fb9-43b6-a214-e9694207b61f" />
 
 
-<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/04768a28-4755-4793-b5dc-853ed77470ae" />
+<img width="1000" height="900" alt="2 - home" src="https://github.com/user-attachments/assets/d88ae1a3-2fda-4028-ae1d-5bc743102c2a" />
 
-<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/76b1d90e-f893-43de-831f-070fd193c0c1" />
-<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/dc7ef5a1-af8b-436f-9361-6144087fb468" />
+<img width="1000" height="900" alt="3 - perfil usuario " src="https://github.com/user-attachments/assets/322f986e-4c2e-4df8-ae6a-c14c80537e39" />
+<img width="1000" height="900" alt="3 -dashboard" src="https://github.com/user-attachments/assets/e5009178-742f-4a4a-bf4a-314b6d1d1191" />
 
+<img width="1000" height="900" alt="4 - productos" src="https://github.com/user-attachments/assets/863ecd99-15d0-4ad6-8dde-0c165e6f9582" />
+<img width="1000" height="900" alt="5 carrito de compras" src="https://github.com/user-attachments/assets/e90ca826-9777-4e2c-8193-88e5300e57cb" />
 
----
+<img width="1000" height="900" alt="6 - generacoin de la orden " src="https://github.com/user-attachments/assets/1cf2ce85-6b2f-4d4a-95ab-2450cdde39d6" />
+
+<img width="1000" height="900" alt="7 tabla de compras" src="https://github.com/user-attachments/assets/511be8b1-9632-44cd-b792-b8573a4bdfd9" />
+
+<img width="1000" height="900" alt="8 boleta de venta " src="https://github.com/user-attachments/assets/def200aa-9469-4962-bcb7-c082318806c1" />
+
+<img width="1000" height="900" alt="9 exportacion de pdf " src="https://github.com/user-attachments/assets/c231ccdb-b1dc-4640-9fa2-ec10a12d4625" />
