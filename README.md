@@ -7,7 +7,7 @@ Diseñada para ofrecer rendimiento, eficiencia y una experiencia inteligente, pe
 brindando soporte contextual, respuestas personalizadas y facilitando los procesos comerciales.
 
 ---
-<img width="1000" height="900" alt="PROYCETOS MSVC" src="https://github.com/user-attachments/assets/428235d3-4f3e-4ecc-bd74-2e4de2f8b40b" />
+<img width="1000" height="900" alt="0- diagrama " src="https://github.com/user-attachments/assets/dc37b8c3-0813-4994-aada-297f3ec5e0ce" />
 
 
 <img width="1000" height="900" alt="3 -dashboard" src="https://github.com/user-attachments/assets/80b41383-0a73-4de2-bede-50dba893080c" />
